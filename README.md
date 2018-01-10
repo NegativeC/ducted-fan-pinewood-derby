@@ -2,3 +2,6 @@
 I wanted to make an "outlaw" pinewood derby car for fun mostly but also hopefully to spark an interest for engineering a few young minds.  
 
 # Parts List
+
+# Schematic
+![Alt text](media/sketch_schem.png?raw=true "Schematic")
