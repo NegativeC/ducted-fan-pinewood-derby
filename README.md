@@ -1,9 +1,9 @@
 # BSA EDF Pinewood Derby Car
 ![Alt text](media/car.png?raw=true "Car")
 
-I mostly wanted to make an "outlaw" pinewood derby car for fun but also was hoping to spark an interest for engineering in a few young minds as well.
+I mostly wanted to make an "outlaw" pinewood derby car for fun but also was hoping to spark an interest for engineering in a few young minds as well. I succeeded in only breaking *one* rule with the car which was the addition of a propulsion device, but every other rule including max weight and dimensions was met.
 
-She's not much to look at but makes enough thrust to take off vertically which was my primary goal. The build cost around $75 and the control logic is only around 90 lines of code.  I used cheap hobby components with reserve capacity to hopefully mitigate failures and provide excellent performance.
+She's not much to look at but speed was the primary goal. The EDF makes enough thrust at full power to have the car take off vertically so it is as fast as possible without getting in to compressed gasses or driven wheels. The build cost around $75 and the control logic is only around 90 lines of code.  I used cheapish hobby components with reserve capacity to hopefully mitigate failures.
 
 ## Controls Overview
 When the IR beam is broken by the track's starting pin, the motor initially spins at a programmable lower speed.
