@@ -22,8 +22,8 @@ If armed and the starting pin drops, the IR beam is once again continuous and th
 | Shipping (China)                    | $20 |
 | Adafruit Trinket 5V                 | $7 |
 | IR 3mm Beam Sensor                  | $2 |
-| Shipping                            | $4 |
-| **Total**                           | $75 |
+| Shipping (Adafruit)                 | $4 |
+| **Total**                           | **$75** |
 
 ## Library Dependencies
 Adafruit SoftServo - https://github.com/adafruit/Adafruit_SoftServo
