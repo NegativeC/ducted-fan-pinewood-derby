@@ -38,7 +38,7 @@ Adafruit has a lot of great tutorials on getting up and running with a Trinket A
 
 ## Additional Pictures
 ![Car1](media/car1.jpeg?raw=true "Car1")
-![Car2](media/car1.jpeg?raw=true "Car2")
-![Car3](media/car1.jpeg?raw=true "Car3")
-![Car4](media/car1.jpeg?raw=true "Car4")
-![Car5](media/car1.jpeg?raw=true "Car5")
+![Car2](media/car2.jpeg?raw=true "Car2")
+![Car3](media/car3.jpeg?raw=true "Car3")
+![Car4](media/car4.jpeg?raw=true "Car4")
+![Car5](media/car5.jpeg?raw=true "Car5")
