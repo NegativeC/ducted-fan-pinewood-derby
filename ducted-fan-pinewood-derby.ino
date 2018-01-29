@@ -15,12 +15,13 @@ Adafruit_SoftServo esc;
 #define RACINGSPEED 180                     // Maximum ESC speed when race start detected 
 
 #define MINIMUMSTAGEDDURATION 2000          // Minimum duration car must be stage to enter race mode in milliseconds
-#define MAXIMUMRACEDURATION 2000            // Maximum duration of racing speed in milliseconds
+#define MAXIMUMRACEDURATION 1500            // Maximum duration of racing speed in milliseconds
 
 enum raceState {
   OFF,
   STAGED,
-  RACING
+  RACING,
+  DONE                                      // Do not allow motor to turn back on after race until power reset
 };
 raceState currentState = OFF;
 
@@ -63,7 +64,7 @@ void loop() {
   if (currentState == RACING) {             // If the car is currently racing
     // Measure the race duration and compare it to maximum race duration
     if ((millis() - racingTime) > MAXIMUMRACEDURATION) {
-      currentState = OFF;                   // Turn ESC off
+      currentState = DONE;                  // Turn ESC off
     }
   }
   // Set the ESC speed depending on the current state
