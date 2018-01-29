@@ -34,4 +34,11 @@ Adafruit SoftServo - https://github.com/adafruit/Adafruit_SoftServo
 Adafruit has a lot of great tutorials on getting up and running with a Trinket Arduino and their SoftServo library. It is a great little device and programming is done via a USB micro cable.
 
 ## Schematic
-![Alt text](media/sketch_schem.png?raw=true "Schematic")
+![Schematic](media/sketch_schem.png?raw=true "Schematic")
+
+## Additional Pictures
+![Car1](media/car1.jpeg?raw=true "Car1")
+![Car2](media/car1.jpeg?raw=true "Car2")
+![Car3](media/car1.jpeg?raw=true "Car3")
+![Car4](media/car1.jpeg?raw=true "Car4")
+![Car5](media/car1.jpeg?raw=true "Car5")
